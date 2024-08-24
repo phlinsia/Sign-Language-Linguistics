@@ -1,4 +1,4 @@
-# Sign-Language-Linguistics
+# Sign-Language-Linguistics 手语语言学题目
 
 A set of exam questions on the topic of sign language linguistics, written in Chinese and provided in LaTeX format.
 
