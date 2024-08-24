@@ -1,0 +1,20 @@
+\contentsline {section}{\numberline {1}选择题}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}语音题：香港手语的语音演变}{2}{subsection.1.1}%
+\contentsline {paragraph}{第一问}{3}{paragraph*.4}%
+\contentsline {paragraph}{第二问}{3}{paragraph*.5}%
+\contentsline {paragraph}{第三问}{3}{paragraph*.6}%
+\contentsline {paragraph}{第四问}{4}{paragraph*.7}%
+\contentsline {subsection}{\numberline {1.2}音系题：中国手语中的音系学}{5}{subsection.1.2}%
+\contentsline {paragraph}{第一问}{6}{paragraph*.11}%
+\contentsline {paragraph}{第二问}{7}{paragraph*.13}%
+\contentsline {paragraph}{第三问}{7}{figure.caption.15}%
+\contentsline {subsection}{\numberline {1.3}语言接触：中国手语的语言接触}{8}{subsection.1.3}%
+\contentsline {paragraph}{第一问}{8}{figure.caption.17}%
+\contentsline {paragraph}{第二问}{8}{paragraph*.18}%
+\contentsline {subsection}{\numberline {1.4}心理语言学：手语中的时间}{9}{subsection.1.4}%
+\contentsline {paragraph}{第一问}{9}{paragraph*.20}%
+\contentsline {paragraph}{第二问}{10}{paragraph*.21}%
+\contentsline {paragraph}{第三问}{10}{paragraph*.23}%
+\contentsline {subsection}{\numberline {1.5}句法学：省略与代指}{11}{subsection.1.5}%
+\contentsline {paragraph}{第一问}{11}{paragraph*.25}%
+\contentsline {paragraph}{第二问}{11}{paragraph*.26}%
